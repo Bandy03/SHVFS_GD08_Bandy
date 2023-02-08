@@ -1,0 +1,4 @@
+repository "SHVFS_P103_GD08_Bandy@bbandy2003@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
